@@ -1,0 +1,9 @@
+{
+	"name": "dev-adf-ghh",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5ab43237-f164-497e-b56a-afe68ecfdea7",
+		"tenantId": "d171d244-85b2-454b-a059-431179c69c66"
+	}
+}
