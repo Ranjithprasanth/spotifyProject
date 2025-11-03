@@ -3,10 +3,10 @@ This project contains an end to end data engineering pipeline built around a spo
 It demonstrated how raw data can be ingested, processed, transformed, modeled using Azure cloud services and Databricks.
 
 # tech stack:
-ADF
-Azure Databricks
-Azure SQL server
-DLT
-Pyspark
-Azure data lake
-spark structured streaming
+1. ADF
+2. Azure Databricks
+3. Azure SQL server
+4. DLT
+5. Pyspark
+6. Azure data lake
+7. spark structured streaming
